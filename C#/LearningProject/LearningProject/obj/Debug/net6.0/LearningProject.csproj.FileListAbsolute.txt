@@ -1,0 +1,15 @@
+C:\MyProgramming\For-ME\Learn-Unity\C#\LearningProject\LearningProject\bin\Debug\net6.0\LearningProject.exe
+C:\MyProgramming\For-ME\Learn-Unity\C#\LearningProject\LearningProject\bin\Debug\net6.0\LearningProject.deps.json
+C:\MyProgramming\For-ME\Learn-Unity\C#\LearningProject\LearningProject\bin\Debug\net6.0\LearningProject.runtimeconfig.json
+C:\MyProgramming\For-ME\Learn-Unity\C#\LearningProject\LearningProject\bin\Debug\net6.0\LearningProject.dll
+C:\MyProgramming\For-ME\Learn-Unity\C#\LearningProject\LearningProject\bin\Debug\net6.0\LearningProject.pdb
+C:\MyProgramming\For-ME\Learn-Unity\C#\LearningProject\LearningProject\obj\Debug\net6.0\LearningProject.csproj.AssemblyReference.cache
+C:\MyProgramming\For-ME\Learn-Unity\C#\LearningProject\LearningProject\obj\Debug\net6.0\LearningProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProgramming\For-ME\Learn-Unity\C#\LearningProject\LearningProject\obj\Debug\net6.0\LearningProject.AssemblyInfoInputs.cache
+C:\MyProgramming\For-ME\Learn-Unity\C#\LearningProject\LearningProject\obj\Debug\net6.0\LearningProject.AssemblyInfo.cs
+C:\MyProgramming\For-ME\Learn-Unity\C#\LearningProject\LearningProject\obj\Debug\net6.0\LearningProject.csproj.CoreCompileInputs.cache
+C:\MyProgramming\For-ME\Learn-Unity\C#\LearningProject\LearningProject\obj\Debug\net6.0\LearningProject.dll
+C:\MyProgramming\For-ME\Learn-Unity\C#\LearningProject\LearningProject\obj\Debug\net6.0\refint\LearningProject.dll
+C:\MyProgramming\For-ME\Learn-Unity\C#\LearningProject\LearningProject\obj\Debug\net6.0\LearningProject.pdb
+C:\MyProgramming\For-ME\Learn-Unity\C#\LearningProject\LearningProject\obj\Debug\net6.0\LearningProject.genruntimeconfig.cache
+C:\MyProgramming\For-ME\Learn-Unity\C#\LearningProject\LearningProject\obj\Debug\net6.0\ref\LearningProject.dll
